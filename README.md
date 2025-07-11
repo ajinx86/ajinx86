@@ -1,22 +1,19 @@
-### :alien: About me
+### 👽 About me
 
-Greetings!
-
-My name is Thaynan (pronounced `ta.ee.nan`), and my pronouns are he/they.
+Greetings! Come by and take a seat! 😊
 
 Here are a few things about me:
-- I'm currently coursing Computer Science;
-- I love listening to music, playing retro videogames, computing and programming;
-- My favorite programming languages are: C, Java, Kotlin and Python;
-- I speak Portuguese (my first language) and English (my second language).
+- Brazilian and Proud <3
+- Lofi addict
+- Code mostly in C and Python
+- Bilingual (English and Portuguese)
 
-### :diamonds: Find me
+### ♦️ Find me
 
-I'm more active in my GitLab. I have some projects there! I'm also on Mastodon!
+I've been trynna find myself too 😬
 
-- [GitLab](https://gitlab.com/piskomauz)
-- <a rel="me" href="https://tech.lgbt/@piskomauz">Mastodon</a>
+- <a rel="me" href="https://tech.lgbt/@leukofay">Mastodon</a>
 
-### :sparkles: Curiosity
+### ✨ Curiosity
 
-I've been designing some cool projects. They should pop up somewhere when ready :D
+I've been trying to learn new things and finish my dream project.
